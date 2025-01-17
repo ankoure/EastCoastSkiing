@@ -1,0 +1,5285 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5468906,40.65897761 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Park City",
+    "SkiRegion":"Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.parkcitymountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.5316756,39.60177444 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Beaver Creek",
+    "SkiRegion":"Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.beavercreek.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.3549395,39.60623527 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Vail",
+    "SkiRegion":"Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.vail.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9436903,39.58178153 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Keystone",
+    "SkiRegion":"Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.keystoneresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.0727269,39.47938163 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"BreckenRidge",
+    "SkiRegion":"Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.breckenridge.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9656952,38.89936498 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crested Butte",
+    "SkiRegion":"Rockies",
+    "Address":"12 Snowmass Rd, Crested Butte, CO 81225",
+    "WebsiteUrl":"https://www.skicb.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.8379297,37.91922587 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Telluride (partnered)",
+    "SkiRegion":"Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://tellurideskiresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.0902108,47.74511932 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Stevens Pass",
+    "SkiRegion":"West",
+    "Address":"",
+    "WebsiteUrl":"http://www.stevenspass.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.1331426,39.26497946 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Northstar",
+    "SkiRegion":"West",
+    "Address":"5001 Northstar Dr, Truckee, CA 96161",
+    "WebsiteUrl":"https://www.northstarcalifornia.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9054455,38.92951276 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Heavenly",
+    "SkiRegion":"West",
+    "Address":"",
+    "WebsiteUrl":"https://www.skiheavenly.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.0651558,38.68482672 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Kirkwood",
+    "SkiRegion":"West",
+    "Address":"1501 Kirkwood Meadows Dr, Kirkwood, CA 95646",
+    "WebsiteUrl":"https://www.kirkwood.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.78395418,44.52755863 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Stowe",
+    "SkiRegion":"Northeast",
+    "Address":"5781 Mountain Rd, Stowe, VT 05672",
+    "WebsiteUrl":"https://www.stowe.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.72788013,43.41169226 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Okemo",
+    "SkiRegion":"Northeast",
+    "Address":"",
+    "WebsiteUrl":"https://www.okemo.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.89451462,42.96878449 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mount Snow",
+    "SkiRegion":"Northeast",
+    "Address":"39 Mount Snow Road, West Dover, VT 05356",
+    "WebsiteUrl":"https://www.mountsnow.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.08037241,43.33154832 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mount Sunapee",
+    "SkiRegion":"Northeast",
+    "Address":"1398 New Hampshire Rte 103, Newbury, NH 03255",
+    "WebsiteUrl":"http://www.mountsunapee.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.23936797,44.26422601 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Wildcat",
+    "SkiRegion":"Northeast",
+    "Address":"",
+    "WebsiteUrl":"https://www.skiwildcat.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.22942154,44.08287884 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Attitash",
+    "SkiRegion":"Northeast",
+    "Address":"775 US-302, Bartlett, NH 03812",
+    "WebsiteUrl":"http://www.attitash.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.87890861,43.01215525 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crotched",
+    "SkiRegion":"Northeast",
+    "Address":"615 Francestown Rd, Bennington, NH 03442",
+    "WebsiteUrl":"http://www.crotchedmtn.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.224712,42.20298252 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hunter",
+    "SkiRegion":"Northeast",
+    "Address":"64 Klein Ave, Hunter, NY 12442",
+    "WebsiteUrl":"https://www.huntermtn.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.7878813,44.85775201 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Afton Alps",
+    "SkiRegion":"Midwest",
+    "Address":"6600 Peller Ave S, Hastings, MN 55033",
+    "WebsiteUrl":"http://www.aftonalps.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.18767093,42.49902593 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Wilmot",
+    "SkiRegion":"Midwest",
+    "Address":"11931 Fox River Rd, Wilmot, WI 53192",
+    "WebsiteUrl":"http://www.wilmotmountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.81161825,42.54098804 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt Brighton",
+    "SkiRegion":"Midwest",
+    "Address":"4141 Bauer Rd, Brighton, MI 48116",
+    "WebsiteUrl":"http://mtbrighton.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.97075233,39.467371 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snow Creek",
+    "SkiRegion":"Midwest",
+    "Address":"1 Snow Creek Dr, Weston, MO 64098",
+    "WebsiteUrl":"http://www.skisnowcreek.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.65073271,38.53540067 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hidden Valley",
+    "SkiRegion":"Midwest",
+    "Address":"17409 Hidden Valley Dr, Eureka, MO 63025",
+    "WebsiteUrl":"http://www.hiddenvalleyski.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.51228414,38.55563708 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Paoli Peaks",
+    "SkiRegion":"Midwest",
+    "Address":"2798 W County Rd 25 S, Paoli, IN 47454",
+    "WebsiteUrl":"http://www.paolipeaks.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.67778852,40.31817825 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mad River",
+    "SkiRegion":"Midwest",
+    "Address":"1000 Snow Valley Rd, Zanesfield, OH 43360",
+    "WebsiteUrl":"http://www.skimadriver.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.56442311,41.26497251 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Boston Mills",
+    "SkiRegion":"Midwest",
+    "Address":"7100 Riverview Rd, Peninsula, OH 44264",
+    "WebsiteUrl":"http://www.bmbw.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.55167901,41.28523927 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Brandywine",
+    "SkiRegion":"Midwest",
+    "Address":"1146 W Highland Rd, Northfield, OH 44067",
+    "WebsiteUrl":"http://www.bmbw.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.27243798,41.55046524 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Alpine Valley",
+    "SkiRegion":"Midwest",
+    "Address":"10620 Mayfield Rd, Chesterland, OH 44026",
+    "WebsiteUrl":"http://www.alpinevalleyohio.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.65304541,41.10812624 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Jack Frost",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"434 Jack Frost Mountain Rd, White Haven, PA 18661",
+    "WebsiteUrl":"http://www.jfbb.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.60128199,41.05041144 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Big Boulder",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"357 Big Boulder Dr, Lake Harmony, PA 18624",
+    "WebsiteUrl":"https://www.jfbb.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.9274419,40.10963106 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Roundtop",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"925 Roundtop Rd, Lewisberry, PA 17339",
+    "WebsiteUrl":"http://www.skiroundtop.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.37542681,39.76380839 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Liberty",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"78 Country Club Trail, Fairfield, PA 17320",
+    "WebsiteUrl":"https://www.libertymountainresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.93330864,39.74200052 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Whitetail",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"13805 Blairs Valley Rd, Mercersburg, PA 17236",
+    "WebsiteUrl":"http://www.skiwhitetail.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.16534038,40.16396003 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Laurel",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"374 Summit Ski Rd, Boswell, PA 15531",
+    "WebsiteUrl":"http://www.laurelmountainski.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.48244661,41.18754549 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hidden Valley",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"",
+    "WebsiteUrl":"https://www.hiddenvalleyresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.29771392,40.02312448 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Seven Springs",
+    "SkiRegion":"Mid Atlantic",
+    "Address":"777 Water Wheel Dr, Champion, PA 15622",
+    "WebsiteUrl":"https://www.7springs.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.9486259,50.11505328 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Whistler Blackcomb",
+    "SkiRegion":"Canada",
+    "Address":"4545 Blackcomb Way, Whistler, BC V0N 1B4, Canada",
+    "WebsiteUrl":"https://www.whistlerblackcomb.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0482623,51.29762241 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Kicking Horse",
+    "SkiRegion":"Canada",
+    "Address":"1500 Kicking Horse Trail, Golden, BC V0A 1H0, Canada",
+    "WebsiteUrl":"http://kickinghorseresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.1510985,50.94277135 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Nakiska",
+    "SkiRegion":"Canada",
+    "Address":"2 Mt Allan Dr, Kananaskis, AB T0L 2H0, Canada",
+    "WebsiteUrl":"http://www.skinakiska.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.0048894,49.68798282 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Kimberley",
+    "SkiRegion":"Canada",
+    "Address":"301 N Star Blvd, Kimberley, BC V1A 2Y5, Canada",
+    "WebsiteUrl":"http://www.skikimberley.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.0873709,49.46290535 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Fernie",
+    "SkiRegion":"Canada",
+    "Address":"5339 Fernie Ski Hill Rd, Fernie, BC V0B 1M6, Canada",
+    "WebsiteUrl":"http://www.skifernie.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.9071038,47.07717255 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Mont-Sainte-Anne",
+    "SkiRegion":"Canada",
+    "Address":"2000 Bd du Beau Pr�, Beaupr�, QC G0A 1E0, Canada",
+    "WebsiteUrl":"https://mont-sainte-anne.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.3828492,47.02720188 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Stoneham",
+    "SkiRegion":"Canada",
+    "Address":"600 Chem. du Hibou, Stoneham-et-Tewkesbury, QC G3C 1T3, Canada",
+    "WebsiteUrl":"https://ski-stoneham.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.480590305,46.31268024 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crans-Montana",
+    "SkiRegion":"Switzerland",
+    "Address":"3963 Crans-Montana, Switzerland",
+    "WebsiteUrl":"https://www.crans-sur-sierre.ch/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 8.592938097,46.63776255 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Andermatt-Sedrun-Disentis",
+    "SkiRegion":"Switzerland",
+    "Address":"Bahnhofpl. 3, 6490 Andermatt, Switzerland",
+    "WebsiteUrl":"https://andermatt-sedrun-disentis.ch/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Skirama Dolomiti",
+    "SkiRegion":"Italy",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Ski Arlberg",
+    "SkiRegion":"Austria",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Verbier 4 vallees",
+    "SkiRegion":"Switzerland",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Les 3 Vallees",
+    "SkiRegion":"France",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Perisher",
+    "SkiRegion":"Australia",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Falls Creek",
+    "SkiRegion":"Australia",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mount Hotham",
+    "SkiRegion":"Australia",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Hakuba Valley",
+    "SkiRegion":"Japan",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0,0 ]
+    },
+    "properties": {
+    "PassName":"Epic",
+    "Partnered":"TRUE",
+    "SkiResortName":"Rusutsu",
+    "SkiRegion":"Japan",
+    "Address":"",
+    "WebsiteUrl":"",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.2348807,39.19771819 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Palisades Tahoe",
+    "SkiRegion":"USA West",
+    "Address":"1960 Olympic Vly Rd, Olympic Valley, CA 96146",
+    "WebsiteUrl":"https://www.palisadestahoe.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.0825048,38.80125902 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Sierra-at-Tahoe",
+    "SkiRegion":"USA West",
+    "Address":"1111 Sierra-At-Tahoe Rd, Twin Bridges, CA 95735",
+    "WebsiteUrl":"https://www.sierraattahoe.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0372756,37.6508769 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mammoth Mountain",
+    "SkiRegion":"USA West",
+    "Address":"10001 Minaret Rd, Mammoth Lakes, CA 93546",
+    "WebsiteUrl":"https://www.mammothmountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.0909476,37.76806256 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"June Mountain",
+    "SkiRegion":"USA West",
+    "Address":"3819 CA-158, June Lake, CA 93529",
+    "WebsiteUrl":"http://www.junemountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.8893756,34.23684026 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Big Bear Mountain Resort",
+    "SkiRegion":"USA West",
+    "Address":"880 Summit Blvd, Big Bear Lake, CA 92315",
+    "WebsiteUrl":"https://www.bigbearmountainresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.0353148,34.22530686 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snow Valley",
+    "SkiRegion":"USA West",
+    "Address":"35100 CA-18, Running Springs, CA 92382",
+    "WebsiteUrl":"https://www.bigbearmountainresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3537057,43.69573032 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Sun Valley",
+    "SkiRegion":"USA Pacific NW",
+    "Address":"1 Sun Valley Rd, Sun Valley, ID 83353",
+    "WebsiteUrl":"https://www.sunvalley.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.0982548,60.97052234 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Alyeska Resort",
+    "SkiRegion":"USA Pacific NW",
+    "Address":"1000 Arlberg Ave, Girdwood, AK 99587",
+    "WebsiteUrl":"https://www.alyeskaresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4747318,46.93535123 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crystal Mountain Resort",
+    "SkiRegion":"USA Pacific NW",
+    "Address":"33914 Crystal Mountain Blvd. Enumclaw, WA 98022",
+    "WebsiteUrl":"https://www.crystalmountainresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.4128043,47.40528218 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"The Summit at Snoqualmie",
+    "SkiRegion":"USA Pacific NW",
+    "Address":"1001 WA-906, Snoqualmie Pass, WA 98068",
+    "WebsiteUrl":"https://www.summitatsnoqualmie.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6847003,43.98989108 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Mt. Bachelor",
+    "SkiRegion":"USA Pacific NW",
+    "Address":"13000 SW Century Dr Bend, OR 97702",
+    "WebsiteUrl":"https://www.mtbachelor.com",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.6234021,48.36749186 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Schweitzer",
+    "SkiRegion":"USA Pacific NW",
+    "Address":"10000 Schweitzer Mountain Rd, Sandpoint, ID 83864",
+    "WebsiteUrl":"https://www.schweitzer.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.9494791,39.20916591 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Aspen Snowmass",
+    "SkiRegion":"USA Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.aspensnowmass.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8036781,40.45808015 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Steamboat",
+    "SkiRegion":"USA Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.steamboat.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.7633153,39.88690899 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Winter Park Resort",
+    "SkiRegion":"USA Rockies",
+    "Address":"85 Parsenn Rd, Winter Park, CO 80482",
+    "WebsiteUrl":"https://www.winterparkresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.1557864,39.50045733 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Copper Mountain",
+    "SkiRegion":"USA Rockies",
+    "Address":"509 Copper Rd, Frisco, CO 80443",
+    "WebsiteUrl":"http://www.coppercolorado.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.8720566,39.64251533 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Arapahoe Basin",
+    "SkiRegion":"USA Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://arapahoebasin.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5826881,39.93728634 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Eldora Mountain Resort",
+    "SkiRegion":"USA Rockies",
+    "Address":"",
+    "WebsiteUrl":"http://www.eldora.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.8304293,43.58710879 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Jackson Hole Mountain Resort",
+    "SkiRegion":"USA Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.jacksonhole.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4000319,45.28454471 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Big Sky Resort",
+    "SkiRegion":"USA Rockies",
+    "Address":"50 Big Sky Resort Rd, Big Sky, MT 59716",
+    "WebsiteUrl":"https://bigskyresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.4500532,36.59480165 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Taos Ski Valley",
+    "SkiRegion":"USA Rockies",
+    "Address":"116 Sutton Pl, Taos Ski Valley, NM 87525",
+    "WebsiteUrl":"https://www.skitaos.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.4886245,40.6225278 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Deer Valley Resort",
+    "SkiRegion":"USA Rockies",
+    "Address":"2250 Deer Valley Dr S, Park City, UT 84060",
+    "WebsiteUrl":"https://www.deervalley.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5921893,40.62094708 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Solitude Mountain Resort",
+    "SkiRegion":"USA Rockies",
+    "Address":"12000 Big Cottonwood Canyon Rd, Solitude, UT 84121",
+    "WebsiteUrl":"https://www.solitudemountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5838577,40.59846739 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Brighton",
+    "SkiRegion":"USA Rockies",
+    "Address":"8302 S Brighton Loop Rd, Brighton, UT 84121",
+    "WebsiteUrl":"http://www.brightonresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.638793,40.58861184 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Alta Ski Area",
+    "SkiRegion":"USA Rockies",
+    "Address":"",
+    "WebsiteUrl":"https://www.alta.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6565102,40.58112414 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Snowbird",
+    "SkiRegion":"USA Rockies",
+    "Address":"9385 Snowbird Ctr Dr, Snowbird, UT 84092",
+    "WebsiteUrl":"https://www.snowbird.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.8570783,41.21573774 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Snowbasin",
+    "SkiRegion":"USA Rockies",
+    "Address":"3925 E. Snowbasin Road Huntsville, Utah 84317",
+    "WebsiteUrl":"https://www.snowbasin.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.92656718,45.46472766 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"The Highlands",
+    "SkiRegion":"USA Midwest",
+    "Address":"600 Highlands Dr, Harbor Springs, MI 49740",
+    "WebsiteUrl":"https://www.highlandsharborsprings.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.92953535,45.16374868 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Boyne Mountain",
+    "SkiRegion":"USA Midwest",
+    "Address":"1 Boyne Mountain Rd, Boyne Falls, MI 49713",
+    "WebsiteUrl":"https://www.boynemountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.90813783,43.11353911632209 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Stratton",
+    "SkiRegion":"USA East",
+    "Address":"5 Village Lodge Rd, Stratton Mountain, VT 05155",
+    "WebsiteUrl":"https://www.stratton.com/",
+    "TrailMapUrl":"https://www.stratton.com/-/media/stratton/pdfs/maps/23-24-trailmap.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.90837139,44.13638523365427 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Sugarbush Resort",
+    "SkiRegion":"USA East",
+    "Address":"",
+    "WebsiteUrl":"https://www.sugarbush.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.84276009,43.66178712 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Pico",
+    "SkiRegion":"USA East",
+    "Address":"73 Alpine Dr, Mendon, VT 05701",
+    "WebsiteUrl":"https://www.picomountain.com/",
+    "TrailMapUrl":"https://cms.picomountain.com/sites/default/files/2024-11/W24-25_Pico_TrailMap-compressed.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.80680993,43.62020755205171 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Killington",
+    "SkiRegion":"USA East",
+    "Address":"",
+    "WebsiteUrl":"https://www.killington.com/",
+    "TrailMapUrl":"https://cms.killington.com/sites/default/files/2024-09/KILLINGTON%20winter-01.2%2009172024forWEB.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.25673283,42.29377420735225 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Windham Mountain Club",
+    "SkiRegion":"USA East",
+    "Address":"19 Resort Dr, Windham, NY 12496",
+    "WebsiteUrl":"https://www.windhammountainclub.com/",
+    "TrailMapUrl":"https://www.windhammountainclub.com/wp-content/uploads/2024/12/WINDHAM-01.6-12032024forWEBkey.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.99392244,38.40298306560268 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snowshoe Mountain",
+    "SkiRegion":"USA East",
+    "Address":"10 Snowshoe Dr, Snowshoe, WV 26209",
+    "WebsiteUrl":"https://www.snowshoemtn.com/",
+    "TrailMapUrl":"https://www.snowshoemtn.com/-/media/snowshoe/maps/trailmapw2024.pdf?rev=d028e069744e4755a272aaf8cbc74b74"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.85654813,44.47369084232717 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Sunday River",
+    "SkiRegion":"USA East",
+    "Address":"15 S Ridge Rd, Newry, ME 04261",
+    "WebsiteUrl":"https://www.sundayriver.com/",
+    "TrailMapUrl":"https://cdn.sanity.io/files/k8yfdmw9/sunday-river/78ea8affe8a94b5bcd3257e17f6f17db4adca4eb.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.30862241,45.05406820869762 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Sugarloaf",
+    "SkiRegion":"USA East",
+    "Address":"5092 Access Rd, Carrabassett Valley, ME 04947",
+    "WebsiteUrl":"https://www.sugarloaf.com/",
+    "TrailMapUrl":"https://cdn.sanity.io/files/k8yfdmw9/sugarloaf/f8fd3145c1a3eef2dcedf93b66e558c0809b4957.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.63366357,44.056468127507046 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Loon Mountain",
+    "SkiRegion":"USA East",
+    "Address":"60 Loon Mountain Rd. Lincoln, NH 03251",
+    "WebsiteUrl":"https://www.loonmtn.com/",
+    "TrailMapUrl":"https://cdn.sanity.io/files/k8yfdmw9/loon/4ba449c959dd1a4ea4547e7a6cc6defc9e2103f7.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.35131592,41.04938511411533 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Camelback Resort",
+    "SkiRegion":"USA East",
+    "Address":"193 Resort Dr, Tannersville, PA 18372",
+    "WebsiteUrl":"https://www.camelbackresort.com/",
+    "TrailMapUrl":"https://www.camelbackresort.com/wp-content/uploads/2024/10/2024-25-Trail-Map-with-Legend-1536x1152.png"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.52082106,40.81083157 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Blue Mountain Resort",
+    "SkiRegion":"USA East",
+    "Address":"1660 Blue Mountain Dr, Palmerton, PA 18071",
+    "WebsiteUrl":"http://www.skibluemt.com/",
+    "TrailMapUrl":"https://www.skibluemt.com/wp-content/uploads/2023/11/Trail-Map-23-24-1024x879.jpg"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.5710228,51.17751553 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"SkiBig3",
+    "SkiRegion":"Canada West",
+    "Address":"",
+    "WebsiteUrl":"https://www.skibig3.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.162763,50.95868727 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Revelstoke Mountain Resort",
+    "SkiRegion":"Canada West",
+    "Address":"2950 Camozzi Rd, Revelstoke, BC V0E 2S1, Canada",
+    "WebsiteUrl":"https://www.revelstokemountainresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.2045879,49.39603889 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Cypress Mountain",
+    "SkiRegion":"Canada West",
+    "Address":"6000 Cypress Bowl Rd, West Vancouver, BC V7V 3N9, Canada",
+    "WebsiteUrl":"https://cypressmountain.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.8194705,49.10251298 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"RED Mountain",
+    "SkiRegion":"Canada West",
+    "Address":"4300 Old Red Mountain Road, Rossland, BC V0G 1Y0, Canada",
+    "WebsiteUrl":"https://www.redresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.2380348,50.46033468 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Panorama",
+    "SkiRegion":"Canada West",
+    "Address":"2000 Panorama Dr, Panorama, BC V0A 1T0, Canada",
+    "WebsiteUrl":"https://www.panoramaresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.8891012,50.88388376 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Sun Peaks Resort",
+    "SkiRegion":"Canada West",
+    "Address":"",
+    "WebsiteUrl":"https://www.sunpeaksresort.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.55805187,46.2171947 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tremblant",
+    "SkiRegion":"Canada East",
+    "Address":"",
+    "WebsiteUrl":"https://www.tremblant.ca/",
+    "TrailMapUrl":"https://medias.tremblant.ca/pdf/cartes/carte-pistes-tremblant.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.31616408,44.50129271 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"FALSE",
+    "SkiResortName":"Blue Mountain",
+    "SkiRegion":"Canada East",
+    "Address":"",
+    "WebsiteUrl":"https://www.bluemountain.ca/",
+    "TrailMapUrl":"https://www.bluemountain.ca/-/media/blue-mountain/mountain-report/maps/fy25/winter/maps/bmr-winter-25-mountain-web.pdf"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2525563,-33.35577788 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Valle Nevado",
+    "SkiRegion":"Chile",
+    "Address":"",
+    "WebsiteUrl":"https://www.vallenevado.com/en/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 1.646307373,42.5786838 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Grandvalira Resorts Andorra",
+    "SkiRegion":"Andorra",
+    "Address":"",
+    "WebsiteUrl":"https://www.grandvalira.com/en",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.39154894,47.44901463 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Kitzb�hel",
+    "SkiRegion":"Austria",
+    "Address":"",
+    "WebsiteUrl":"https://www.kitzbuehel.com/en/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 6.871979167,45.92355961 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Chamonix Mont-Blanc Valley",
+    "SkiRegion":"France",
+    "Address":"",
+    "WebsiteUrl":"https://en.chamonix.com/chamonix-mont-blanc-valley/the-village-resorts/chamonix-mont-blanc",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.65208439,46.57403377 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Dolomiti Superski",
+    "SkiRegion":"Italy",
+    "Address":"",
+    "WebsiteUrl":"https://www.dolomitisuperski.com/en/home",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 7.755431115,46.00500178 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Zermatt Matterhorn",
+    "SkiRegion":"Switzerland",
+    "Address":"",
+    "WebsiteUrl":"https://www.matterhornparadise.ch/en/experience/skiing",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 9.82836183,46.49726131 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"St. Moritz",
+    "SkiRegion":"Switzerland",
+    "Address":"",
+    "WebsiteUrl":"https://www.stmoritz.com/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 148.3118387,-36.4975625 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Thredbo",
+    "SkiRegion":"Australia",
+    "Address":"",
+    "WebsiteUrl":"https://www.thredbo.com.au/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 146.4472524,-37.14656206 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Mt Buller",
+    "SkiRegion":"Australia",
+    "Address":"",
+    "WebsiteUrl":"http://mtbuller.com.au/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 168.7362618,-44.92708942 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Coronet Peak, The Remarkables, Mt Hutt",
+    "SkiRegion":"New Zealand",
+    "Address":"",
+    "WebsiteUrl":"https://www.coronetpeak.co.nz/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.6602085,42.87805228 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Niseko United",
+    "SkiRegion":"Japan",
+    "Address":"",
+    "WebsiteUrl":"https://www.niseko.ne.jp/en/",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.1801098,36.9895617 ]
+    },
+    "properties": {
+    "PassName":"Ikon",
+    "Partnered":"TRUE",
+    "SkiResortName":"Arai Mountain Resort",
+    "SkiRegion":"Japan",
+    "Address":"",
+    "WebsiteUrl":"https://www.lottehotel.com/arai-resort/en/ski-webzine.html",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.6042013,48.3010898 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"49 Degrees North",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/49-degrees-north",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9362351,39.82130298 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Amihari Onsen Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/amihari-onsen-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.6330774,45.850975 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Andes Tower Hills",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/andes-tower-hills",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.4950898,39.9573111 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ani Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ani-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.5171051,44.6124452 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Antelope Butte",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/antelope-butte",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.2767197,40.693185 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Aomori Spring Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/aomori-spring-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9060377,49.3908831 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Apex Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/apex-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -149.5350607,61.2465242 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Arctic Valley",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/arctic-valley",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.2411421,49.1530415 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Baldy Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/baldy-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 0.9064088,42.6952103 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Baqueira/Beret",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/baqueiraberet",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6496577,40.4813472 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bear Creek",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bear-creek",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.0379791,38.46289573 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bear Valley Adventure Company",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bear-valley-adventure-company",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.0628751,38.4788547 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bear Valley Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bear-valley-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5467243,41.968075 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Beaver Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/beaver-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.8797153,42.6211485 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Berkshire East Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/berkshire-east-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.70191972,45.50726286 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Big Moose",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/big-moose",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.0982872,46.5090372 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Big Powderhorn",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/big-powderhorn",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -67.8353602,46.5223714 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Big Rock Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/big-rock-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.9291592,49.7216277 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Big White Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/big-white-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.7299099,49.28574187 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Black Jack Cross Country Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/black-jack-cross-country-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.6159136,44.5769444 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Black Mountain of Maine",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/black-mountain-of-maine",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.168649,44.1666811 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Black Mountain Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/black-mountain-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.3721471,48.0148365 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Blacktail Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/blacktail-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.5666261,40.2885997 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Blue Knob All Season Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/blue-knob-all-season-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.8538529,44.4223862 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bolton Valley Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bolton-valley-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.4775329,48.950695 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bottineau Winter Park",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bottineau-winter-park",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.2791733,42.4190908 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bousquet Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bousquet-mountain-0",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7882194,44.4462814 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bruce Mound Winter Sports Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bruce-mound-winter-sports-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.1569924,45.0054 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Brundage Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/brundage-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7682726,38.8174554 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Bryce Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/bryce-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -93.2862539,44.724844 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Buck Hill",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/buck-hill",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.91029195,44.62870605 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"TRUE",
+    "SkiResortName":"Burke Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/burke-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.7231528,44.2447088 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Caberfae Peaks",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/caberfae-peaks",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.7829706,45.274401 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Calabogie Peaks Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/calabogie-peaks-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.8726574,53.97075291 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Caledonia Nordic Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/caledonia-nordic-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.13146676,44.21769844 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Camden Snow Bowl",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/camden-snow-bowl",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8537991,45.5090169 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Camp Fortune",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/camp-fortune",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.46069824,39.02918667 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Canaan Valley",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/canaan-valley",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.7044046,44.1773749 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cannon Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cannon-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.42188864,46.62761529 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cape Smokey",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cape-smokey",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.9263423,44.2412103 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cascade Welcome Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cascade-welcome-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4151632,49.3191188 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Castle Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/castle-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.0949862,35.5592351 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cataloochee Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cataloochee-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.4795061,42.1690998 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Catamount Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/catamount-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.04883333,44.44831645 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Catamount Outdoor Family Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/catamount-outdoor-family-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.8582938,42.97673 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cazenovia Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cazenovia-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.0126752,41.63624485 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"TRUE",
+    "SkiResortName":"Cherry Peak",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cherry-peak",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.3963733,42.319017 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Chestnut Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/chestnut-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.1599511,37.2364356 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"China Peak",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/china-peak",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -91.3833987,45.5090962 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Christie Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/christie-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.607698,45.4124145 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cooper Spur Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cooper-spur-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.8021558,45.84794645 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crosscut Mountain Sports Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/crosscut-mountain-sports-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.99161557,44.52010072 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crystal Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/crystal-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0172624,42.9208017 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Crystal Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/crystal-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.4817142,37.0552643 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Cupid Valley",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/cupid-valley",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.1021183,43.787748 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Dartmouth Skiway",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/dartmouth-skiway",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.785864,46.8130854 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Detroit Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/detroit-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9584442,38.1898028 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Dodge Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/dodge-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.6061667,48.59110985 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Dog Creek Lodge & Nordic Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/dog-creek-lodge-nordic-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.8679602,35.9902088 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Dynaland",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/dynaland",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3864365,38.3203245 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Eagle Point",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/eagle-point",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -134.5153968,58.2745312 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Eaglecrest",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/eaglecrest",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.5219731,39.6845817 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Echo Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/echo-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.3505175,36.7001562 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Enchanted Forest XC",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/enchanted-forest-xc",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 34.014505,37.8781927 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ercİyes Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/erciyes-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -115.8307703,50.3388251 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Fairmont Hot Springs",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/fairmont-hot-springs",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.1073436,43.7124502 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Garnet Hill XC",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/garnet-hill-xc",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9036806,39.2366246 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Geto Kogen",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/geto-kogen",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -4.8278692,56.6324409 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Glencoe Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/glencoe-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9089128,40.0446489 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Granby Ranch",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/granby-ranch",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.6958047,44.9253444 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Granite Peak",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/granite-peak",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -96.66392463,43.57814995 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Great Bear Ski Valley",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/great-bear-ski-valley",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.1474284,42.5085935 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Greek Peak Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/greek-peak-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.594334,44.5176652 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hardwood Ski and Bike",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hardwood-ski-and-bike",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.50886775,35.95429562 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hatley Pointe",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hatley-pointe",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.81688182,43.47620872 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hickory Ski Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hickory-ski-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.6733403,41.30625 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"High Point XC Ski Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/high-point-xc-ski-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.9036975,36.0055471 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hirugano Kogen Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hirugano-kogen-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -104.9338958,40.4520656 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hoedown Hill",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hoedown-hill",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -112.3834782,45.9052331 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Homestake Lodge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/homestake-lodge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.8739961,44.4086439 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hoodoo",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hoodoo",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -106.8405524,40.4833683 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Howelsen Hill",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/howelsen-hill",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -127.2689951,54.76580661 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hudson Bay Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hudson-bay-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -100.7257943,46.627425 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Huff Hills Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/huff-hills-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.4806785,42.645996 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hunt Hollow Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hunt-hollow-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -123.4977155,47.9699846 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Hurricane Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/hurricane-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 11.1618082,47.1953877 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Innsbruck Ski & City Network",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/innsbruck-ski-city-network",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.1875049,44.1455635 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Jackson XC",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/jackson-xc",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5073526,44.9379013 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Jay Peak Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/jay-peak-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.1845217,43.704967 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Kamui Ski Links",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/kamui-ski-links",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.6324654,43.6460169 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Kelly Canyon",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/kelly-canyon",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.0095172,49.6822765 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Kimberley Nordic Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/kimberley-nordic-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.08894472,43.86828018 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"TRUE",
+    "SkiResortName":"King Pine",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/king-pine",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9833059,43.0663934 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Kiroro Snow World",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/kiroro-snow-world",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.6712683,47.6141122 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Leavenworth Winter Sports Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/leavenworth-winter-sports-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.2815214,43.3379806 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Little Switzerland",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/little-switzerland",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3508156,48.2939871 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Loch Lomond",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/loch-lomond",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.9546482,45.6922649 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Lost Trail Powder Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/lost-trail-powder-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.2855319,44.1360699 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Lost Valley ",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/lost-valley",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9135503,48.3943616 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Loup Loup Ski Bowl",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/loup-loup-ski-bowl",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -105.9005334,39.6800625 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Loveland Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/loveland-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.716136,47.663713 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Lutsen Mountains",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/lutsen-mountains",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.2880255,36.8524572 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Madarao Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/madarao-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.77132459,43.20191601 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Magic Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/magic-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.8244564,36.98226596 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Maiko Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/maiko-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 15.5505559,50.7201426 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Malá Úpa ",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mala-upa",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.9521503,49.0701941 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Manning Park",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/manning-park",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.7897713,49.063089 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Manning Park XC",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/manning-park-xc",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.0371723,42.8170709 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Maple Ski Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/maple-ski-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -95.7793197,47.009156 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Maplelag Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/maplelag-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.42339,46.5082074 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Marquette Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/marquette-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7572956,38.4035359 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Massanutten Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/massanutten-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5247494,46.621511 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Massif du Sud ",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/massif-du-sud",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.44381919,43.00755388 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"TRUE",
+    "SkiResortName":"McIntyre Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mcintyre-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.2238357,44.1636263 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Meadowlark Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/meadowlark-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.1825961,48.4681634 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Methow Trails XC",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/methow-trails-xc",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.95772668,43.93902993 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Middlebury Snowbowl",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/middlebury-snowbowl",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.8977884,45.830018 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Minocqua Winter Park",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/minocqua-winter-park",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -120.4024513,47.2924657 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mission Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mission-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.3176389,41.838231 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mohawk Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mohawk-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.4091987,45.4680559 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mont Rigaud",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mont-rigaud",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.56009945,47.12809236 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"TRUE",
+    "SkiResortName":"Mont Ripley Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mont-ripley-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.6654972,41.3512429 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Montage Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/montage-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.0021483,47.014436 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Montana Snowbowl",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/montana-snowbowl",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -147.990682,64.94122683 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Moose Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/moose-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1308235,48.5258002 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mount Baldy Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mount-baldy-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.0359465,44.1331301 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mount Kato",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mount-kato",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.6941045,34.3769418 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mountain High",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mountain-high",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.70681126,44.37973496 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt. Abram",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mt-abram",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.5135188,44.7423148 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt. Holiday",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mt-holiday",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.6677651,45.3317552 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt. Hood Meadows",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mt-hood-meadows",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.9688449,43.0503785 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt. Racey Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mt-racey-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.2060823,41.321106 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt. Shasta",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mt-shasta",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -125.2614094,49.80450975 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Mt. Washington",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/mt-washington",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.8433196,37.0719009 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Muica Snow Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/muica-snow-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.5138906,44.40454724 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Nayoro Piyashiri Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/nayoro-piyashiri-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.2137275,49.409235 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Nelson Nordic Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/nelson-nordic-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.9567878,49.383699 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Nickel Plate Cross Country Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/nickel-plate-cross-country-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.4653277,37.9268164 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ninox Snow Park",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ninox-snow-park",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.1838618,44.1214576 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Nordic Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/nordic-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.8724272,45.7894874 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Norway Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/norway-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.9069303,45.471166 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Nubs Nob",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/nubs-nob-0",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5608417,35.7031411 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ober Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ober-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 141.1715197,40.0874 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Okunakayama Kogen",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/okunakayama-kogen",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.4640234,36.55600189 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Palcall Tsumagoi Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/palcall-tsumagoi-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.4492817,49.60297943 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Pass Powderkeg",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/pass-powderkeg",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.8002399,43.1639733 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Pats Peak",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/pats-peak",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.52408214,45.32571999 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"TRUE",
+    "SkiResortName":"Paul Bunyan Ski Hill",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/paul-bunyan-ski-hill",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7381204,42.0623302 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Peek ‘n Peak",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/peek-n-peak",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -118.5866193,49.103709 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Phoenix Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/phoenix-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.0913177,45.8391227 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Pine Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/pine-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 142.4972506,43.9331104 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Pippu Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/pippu-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -113.6103326,42.3179871 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Pomerelle Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/pomerelle-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -94.3075934,45.3438676 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Powder Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/powder-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -108.1508398,39.07000715 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Powderhorn",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/powderhorn",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -69.6605718,44.5826282 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Quarry Road Trails",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/quarry-road-trails",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.84227592,43.48542581 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ragged Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ragged-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5684757,44.9564326 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Rangeley Lakes Trail Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/rangeley-lakes-trail-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.3352328,45.19147328 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Red Lodge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/red-lodge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.9936673,43.954787 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Rikert Nordic Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/rikert-nordic-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.5296617,44.9462173 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Saddleback Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/saddleback-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5458462,43.6650614 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Saskadena Six Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/saskadena-six-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.9380493,49.379918 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Sasquatch Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/sasquatch-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.1357063,44.940947 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Schuss Mountain at Shanty Creek",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/schuss-mountain-at-shanty-creek",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -128.9553952,54.484131 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Shames Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/shames-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.08480066,41.03977382 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Shawnee Mountain Ski Area",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/shawnee-mountain-ski-area",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.9543099,39.8990404 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Shimokura",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/shimokura",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.1343218,47.4950187 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Silver Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/silver-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.33377842,42.91535333 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Skaneateles Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/skaneateles-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.0278006,41.5233005 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ski Big Bear",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ski-big-bear",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -117.853694,46.0824682 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ski Bluewood",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ski-bluewood",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.2925621,41.5209883 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Ski Sawmill",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/ski-sawmill",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 12.2008647,47.4787937 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"SkiWelt",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/skiwelt",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.7586156,43.4728087 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snow King Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/snow-king-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.4249888,43.6397477 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snow Ridge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/snow-ridge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.96680128,46.50092153 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snowriver",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/snowriver",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.7487552,41.425203 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Snowstar",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/snowstar",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -114.8394912,43.484719 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Soldier Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/soldier-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.1077133,50.36244 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Sovereign Lake Nordic Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/sovereign-lake-nordic-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.2167365,46.7182684 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Spirit Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/spirit-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -90.8217712,42.5152436 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Sundown Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/sundown-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -107.341345,39.3997821 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Sunlight Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/sunlight-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.5668086,33.9737271 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Sunrise Park",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/sunrise-park",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.8577131,42.4765984 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Swain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/swain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.8299194,41.9546966 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Swiss Valley",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/swiss-valley",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.8747543,35.9982091 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Takasu Snow Park",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/takasu-snow-park",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -116.1256351,44.6707683 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tamarack Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/tamarack-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.2604231,36.8533811 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tangram Ski Circus",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/tangram-ski-circus",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 140.7681328,39.7623337 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tazawako",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/tazawako",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -119.7175073,49.863107 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Telemark Nordic Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/telemark-nordic-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -103.8429043,44.3345768 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Terry Peak",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/terry-peak",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.2378371,44.7634267 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Titus Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/titus-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.0920507,36.754361 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Togakushi Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/togakushi-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.7477526,44.4654613 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Trapp Family Lodge",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/trapp-family-lodge",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.5887653,45.0343188 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tree Tops Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/tree-tops-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -92.6206738,45.3513159 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Trollhaugen",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/trollhaugen",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -110.2708794,43.8549223 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Turpin Meadow Ranch",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/turpin-meadow-ranch",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.7565121,40.769202 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tussey Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/tussey-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.7855207,43.0447546 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Tyrol Basin Ski and Snowboard",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/tyrol-basin-ski-and-snowboard",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.9169811,35.942471 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Washigatake Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/washigatake-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.528136,43.96581488 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Waterville Valley Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/waterville-valley-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.7278653,43.285651 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"West Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/west-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.1828453,43.601705 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Whaleback Mountain",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/whaleback-mountain",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4242803,39.019 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"White Grass Ski Touring",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/white-grass-ski-touring",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -121.3950684,46.6366469 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"White Pass",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/white-pass",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -111.5135009,40.66233179 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"White Pine Touring Nordic Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/white-pine-touring-nordic-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -135.1040097,60.7306527 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Whitehorse Nordic Centre",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/whitehorse-nordic-centre",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 136.9300044,35.9558168 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"WhitePIA Takasu",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/whitepia-takasu",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -109.7824737,42.9736669 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Whitepine Mountain Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/whitepine-mountain-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -122.1228259,52.2464628 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Williams Lake Cross Country Ski Club",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/williams-lake-cross-country-ski-club",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.93929387,37.93049275 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Wintergreen",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/wintergreen",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.128918,37.596639 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Winterplace Ski Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/winterplace-ski-resort",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.36323202,39.55746327 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Wisp",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/wisp",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.5187081,43.6151845 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Woodstock Nordic Center",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/woodstock-nordic-center",
+    "TrailMapUrl":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 138.8490268,36.9141426 ]
+    },
+    "properties": {
+    "PassName":"Indy",
+    "Partnered":"FALSE",
+    "SkiResortName":"Yuzawa Nakazato Snow Resort",
+    "SkiRegion":"",
+    "Address":"",
+    "WebsiteUrl":"https://www.indyskipass.com/our-resorts/yuzawa-nakazato-snow-resort",
+    "TrailMapUrl":""
+    }
+  }
+]
+}

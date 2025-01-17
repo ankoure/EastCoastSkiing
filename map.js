@@ -6,25 +6,84 @@ window.addEventListener('DOMContentLoaded', function() {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
-    fetch('ikonpassmountains.json')
-    .then(response => response.json())
-    .then(data => {
-    // Do something with the JSON data
-    console.log(data);
-    data.forEach(element => {
-        var marker = L.marker([element["latitude"], element["longitude"]]).addTo(map);
-        marker.bindPopup("<b>"+element["name"]+"</b><br><a href="+element["trailmapurl"]+">Trail Map URL</a>")
-        
-        
-    });
+
+    // Define styles for different layer groups
+    const styles = {
+        "Ikon": { color: "blue", weight: 2 },
+        "Indy": { color: "red", weight: 2 },
+        "Epic": { color: "green", weight: 2 }
+    };
+
+    // Layer groups
+    const layerGroups = {
+        "Ikon": L.layerGroup().addTo(map),
+        "Indy": L.layerGroup().addTo(map),
+        "Epic": L.layerGroup().addTo(map)
+    };
+    const layerControl = L.control.layers(null, layerGroups).addTo(map);
+
+    // Load GeoJSON data
+    const geojsonUrl = "AllPasses.geojson"; 
+
+    fetch(geojsonUrl)
+            .then(response => response.json())
+            .then(data => {
+                L.geoJSON(data, {
+                    pointToLayer: (feature, latlng) => {
+                        // Style points as circle markers
+                        const group = feature.properties.PassName;
+                        const style = styles[group] || { color: "gray", radius: 8, fillOpacity: 0.6 };
+                        return L.circleMarker(latlng, style);
+                    },
+                    onEachFeature: (feature, layer) => {
+                        const group = feature.properties.PassName; 
+                        if (layerGroups[group]) {
+                            layer.addTo(layerGroups[group]);
+                        }
+
+                        // Add a pop-up for each feature
+                        if (feature.properties && feature.properties.PassName) {
+                            layer.bindPopup(() => {
+                                let popupContent = `<b>${feature.properties.SkiResortName}</b><br>`;
+                            
+                                // Add website link if it exists
+                                if (feature.properties.WebsiteUrl) {
+                                    popupContent += `<a href="${feature.properties.WebsiteUrl}" target="_blank">Ski Resort Website</a><br>`;
+                                }
+                            
+                                // Add trail map link if it exists
+                                if (feature.properties.TrailMapUrl) {
+                                    popupContent += `<a href="${feature.properties.TrailMapUrl}" target="_blank">Trail Map</a>`;
+                                }
+                            
+                                return popupContent;
+                            });
+                            
+                        }
+                    }
+                }).addTo(map);
+
+            
+            })
+            .catch(error => console.error("Error loading GeoJSON:", error));
+
+            // Add a legend to the map
+        const legend = L.control({ position: "bottomright" });
+
+        legend.onAdd = function () {
+            const div = L.DomUtil.create("div", "legend");
+            div.innerHTML += `<h4>Legend</h4>`;
+            div.innerHTML += `<i style="background: blue"></i> Ikon <br>`;
+            div.innerHTML += `<i style="background: red"></i> Indy<br>`;
+            div.innerHTML += `<i style="background: green"></i> Epic<br>`;
+            return div;
+        };
+
+        legend.addTo(map);
+
+
+ 
+
     
-    })
-    .catch(error => {
-    // Handle errors
-    console.error('Error:', error);
-    });
-
-
-    //L.geoJSON(geojsonFeature).addTo(map);
 
 });

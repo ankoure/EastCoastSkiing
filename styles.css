@@ -1,1 +1,23 @@
-#map { height: 100vh; width: 100vw; }
+html, body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    overflow: hidden; /* Prevent scrollbars */
+  }
+  
+  #map {
+    height: 100vh;
+    width: 100vw;
+  }
+  .legend {
+    background: white;
+    padding: 10px;
+    line-height: 1.5;
+    border: 1px solid #ccc;
+}
+.legend i {
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    margin-right: 8px;
+}

@@ -23,7 +23,7 @@ window.addEventListener('DOMContentLoaded', function() {
     const layerControl = L.control.layers(null, layerGroups).addTo(map);
 
     // Load GeoJSON data
-    const geojsonUrl = "AllPasses.geojson"; 
+    const geojsonUrl = "AllResorts.geojson"; 
 
     fetch(geojsonUrl)
             .then(response => response.json())
@@ -31,29 +31,29 @@ window.addEventListener('DOMContentLoaded', function() {
                 L.geoJSON(data, {
                     pointToLayer: (feature, latlng) => {
                         // Style points as circle markers
-                        const group = feature.properties.PassName;
+                        const group = feature.properties.passaffiliation;
                         const style = styles[group] || { color: "gray", radius: 8, fillOpacity: 0.6 };
                         return L.circleMarker(latlng, style);
                     },
                     onEachFeature: (feature, layer) => {
-                        const group = feature.properties.PassName; 
+                        const group = feature.properties.passaffiliation; 
                         if (layerGroups[group]) {
                             layer.addTo(layerGroups[group]);
                         }
 
                         // Add a pop-up for each feature
-                        if (feature.properties && feature.properties.PassName) {
+                        if (feature.properties && feature.properties.passaffiliation) {
                             layer.bindPopup(() => {
-                                let popupContent = `<b>${feature.properties.SkiResortName}</b><br>`;
+                                let popupContent = `<b>${feature.properties.name}</b><br>`;
                             
                                 // Add website link if it exists
-                                if (feature.properties.WebsiteUrl) {
-                                    popupContent += `<a href="${feature.properties.WebsiteUrl}" target="_blank">Ski Resort Website</a><br>`;
+                                if (feature.properties.websiteurl) {
+                                    popupContent += `<a href="${feature.properties.websiteurl}" target="_blank">Ski Resort Website</a><br>`;
                                 }
                             
                                 // Add trail map link if it exists
-                                if (feature.properties.TrailMapUrl) {
-                                    popupContent += `<a href="${feature.properties.TrailMapUrl}" target="_blank">Trail Map</a>`;
+                                if (feature.properties.trailmapurl) {
+                                    popupContent += `<a href="${feature.properties.trailmapurl}" target="_blank">Trail Map</a>`;
                                 }
                             
                                 return popupContent;
@@ -76,6 +76,7 @@ window.addEventListener('DOMContentLoaded', function() {
             div.innerHTML += `<i style="background: blue"></i> Ikon <br>`;
             div.innerHTML += `<i style="background: red"></i> Indy<br>`;
             div.innerHTML += `<i style="background: green"></i> Epic<br>`;
+            div.innerHTML += `<i style="background: gray"></i> Unaffilated<br>`;
             return div;
         };
 
